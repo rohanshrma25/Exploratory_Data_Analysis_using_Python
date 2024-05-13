@@ -7,7 +7,7 @@ This Python project conducts exploratory data analysis (EDA) on a sales dataset 
 To run the project locally, ensure you have Python installed along with the necessary libraries. You can install the required libraries using pip:
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas numpy matplotlib seaborn```
 
 ## Data
 The dataset used in this analysis is stored in 'Sales_dataset1.xlsx'. It contains information about sales transactions, including customer demographics, product details, purchase types, payment methods, and sales amounts.
