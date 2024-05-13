@@ -25,20 +25,20 @@ The analysis includes the following steps:
   
 1. Univariate Analysis:  
   
-*Top product categories    
-*Preferred payment methods    
-*Top customer countries  
+* Top product categories    
+* Preferred payment methods    
+* Top customer countries  
   
 2. Bivariate Analysis:
   
-*Total sales by gender  
-*Unit prices by product type  
-*Profit trends over time  
+* Total sales by gender  
+* Unit prices by product type  
+* Profit trends over time  
   
 3. Multivariate Analysis:  
   
-*Correlation matrix  
-*Total sales by product type and gender  
+* Correlation matrix  
+* Total sales by product type and gender  
   
 ## Files Included  
 EDA_using_python.py: Main Python script for data analysis.  
