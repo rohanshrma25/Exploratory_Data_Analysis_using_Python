@@ -41,7 +41,7 @@ The analysis includes the following steps:
 * Total sales by product type and gender  
   
 ## Files Included  
-EDA_project.py: Main Python script for data analysis.  
+EDA_Project.py: Main Python script for data analysis.  
 Sales_dataset1.xlsx: Sales dataset used in the analysis.  
 README.md: Project documentation.  
   
