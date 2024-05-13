@@ -16,10 +16,10 @@ The dataset used in this analysis is stored in 'Sales_dataset1.xlsx'. It contain
   
 ## Data Preprocessing:  
   
-*Correcting data types  
-*Handling missing values  
-*Removing duplicates  
-*Analysis  
+* Correcting data types  
+* Handling missing values  
+* Removing duplicates  
+* Analysis  
   
 The analysis includes the following steps:  
   
@@ -41,7 +41,7 @@ The analysis includes the following steps:
 * Total sales by product type and gender  
   
 ## Files Included  
-EDA_using_python.py: Main Python script for data analysis.  
+EDA_project.py: Main Python script for data analysis.  
 Sales_dataset1.xlsx: Sales dataset used in the analysis.  
 README.md: Project documentation.  
   
