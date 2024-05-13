@@ -13,34 +13,35 @@ pip install pandas numpy matplotlib seaborn
 ## Data  
 
 The dataset used in this analysis is stored in 'Sales_dataset1.xlsx'. It contains information about sales transactions, including customer demographics, product details, purchase types, payment methods, and sales amounts.  
-
-* Data Preprocessing:  
-
-Correcting data types  
-Handling missing values  
-Removing duplicates  
-Analysis  
+  
+## Data Preprocessing:  
+  
+*Correcting data types  
+*Handling missing values  
+*Removing duplicates  
+*Analysis  
   
 The analysis includes the following steps:  
   
-Univariate Analysis:  
+1. Univariate Analysis:  
   
-Top product categories    
-Preferred payment methods    
-Top customer countries  
+*Top product categories    
+*Preferred payment methods    
+*Top customer countries  
   
-Bivariate Analysis:
-
-Total sales by gender  
-Unit prices by product type  
-Profit trends over time  
-
-Multivariate Analysis:  
+2. Bivariate Analysis:
   
-Correlation matrix  
-Total sales by product type and gender  
-Files Included  
-sales_eda.py: Main Python script for data analysis.  
+*Total sales by gender  
+*Unit prices by product type  
+*Profit trends over time  
+  
+3. Multivariate Analysis:  
+  
+*Correlation matrix  
+*Total sales by product type and gender  
+  
+## Files Included  
+EDA_using_python.py: Main Python script for data analysis.  
 Sales_dataset1.xlsx: Sales dataset used in the analysis.  
 README.md: Project documentation.  
   
