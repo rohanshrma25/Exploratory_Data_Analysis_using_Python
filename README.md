@@ -41,10 +41,10 @@ The analysis includes the following steps:
 
 ## Hypothesis Testing
 **Test 1**: Is there a significant difference in the average total sales between male and female customers?
-Statistical Test: 2-sample t-test
+- Statistical Test: 2-sample t-test
 
 **Test 2**: Is there a significant difference in average total sales across different payment methods?
-Statistical Test: ANOVA test
+- Statistical Test: ANOVA test
   
 ## Files Included  
 EDA_Project.py: Main Python script for data analysis.  
