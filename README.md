@@ -7,7 +7,7 @@ This Python project conducts exploratory data analysis (EDA) on a sales dataset 
 To run the project locally, ensure you have Python installed along with the necessary libraries. You can install the required libraries using pip:  
 
 ```
-pip install pandas numpy matplotlib seaborn
+pip install pandas numpy matplotlib seaborn scipy.stats
 ```
   
 ## Data  
@@ -25,20 +25,26 @@ The analysis includes the following steps:
   
 1. Univariate Analysis:  
   
-* Top product categories    
+* Age-Density plot 
 * Preferred payment methods    
 * Top customer countries  
   
 2. Bivariate Analysis:
   
 * Total sales by gender  
-* Unit prices by product type  
 * Profit trends over time  
   
 3. Multivariate Analysis:  
   
 * Correlation matrix  
-* Total sales by product type and gender  
+* Total sales by product type and gender
+
+## Hypothesis Testing
+**Test 1**: Is there a significant difference in the average total sales between male and female customers?
+Statistical Test: 2-sample t-test
+
+**Test 2**: Is there a significant difference in average total sales across different payment methods?
+Statistical Test: ANOVA test
   
 ## Files Included  
 EDA_Project.py: Main Python script for data analysis.  
